@@ -41,3 +41,11 @@ AI tools were used for:
 - dependency troubleshooting
 
 All generated code was manually reviewed and organized.
+
+## Submission Notes
+
+The backend architecture, RBAC rules, service layer, schemas, audit logging, and business workflows were implemented according to the AIRMAN assessment requirements.
+
+Due to dependency compatibility conflicts with Python 3.13/3.14 on Windows during final environment setup, complete runtime verification could not be finalized before submission.
+
+The project structure and business logic implementation remain intact and reviewable.
